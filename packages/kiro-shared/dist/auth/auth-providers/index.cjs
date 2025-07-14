@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});const e=require("../../social-auth-provider-K_M4Kprz.cjs");exports.ClientRegistrationStorage=e.ClientRegistrationStorage;exports.IDCAuthProvider=e.IDCAuthProvider;exports.SocialAuthProvider=e.SocialAuthProvider;
